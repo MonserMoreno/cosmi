@@ -6,6 +6,7 @@
     <li>
         <h2><br>
           {{ $preguntas->pregunta}}
+          <!--aqui-->
         </h2>
         <p>{{ $preguntas->respuesta}}</p>
     </li>
